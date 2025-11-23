@@ -7,7 +7,7 @@
 I’m a Frontend Engineer specialized in **React**, focused on building fast, scalable, and maintainable interfaces using modern architecture patterns and TypeScript.
 I care about clean code, performance, and crafting UIs that feel smooth and reliable.
 
-In my spare time, I expand beyond the frontend—developing APIs with **Node.js/Express**, integrating databases, and experimenting with DevOps workflows like **Docker** and **CI/CD**.
+In my spare time, I expand beyond the frontend developing APIs with **Node.js/Express**, integrating databases, and experimenting with DevOps workflows like **Docker** and **CI/CD**.
 This broader skillset helps me understand the full lifecycle of an application and deliver solutions that are stable, testable, and production-ready.
 
 * 💻 **Frontend:** React, Angular, Tailwind, TypeScript
