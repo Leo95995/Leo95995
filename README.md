@@ -17,6 +17,18 @@ This broader skillset helps me understand the full lifecycle of an application a
 
 ## Featured Projects
 
+### [Multi-Criteria-Filter](https://www.npmjs.com/package/@leo95/multi-criteria-filter)
+
+**Tech**: TypeScript, React
+
+**Highlights**:
+
+* Ultra-lightweight, fully typed library for dynamic multi-criteria filtering
+* Handles AND/OR logic and optional duplicate removal effortlessly
+* Includes a React Hook for instant integration in projects
+* Framework-agnostic core: works anywhere you need object filtering
+* Minimal setup, maximum flexibility
+
 ### [DashHub](https://dashhub.up.railway.app)
 
 **Tech:** React, Redux, Tailwind, Node.js, Express, Cypress, Docker
