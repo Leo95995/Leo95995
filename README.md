@@ -29,6 +29,8 @@ This broader skillset helps me understand the full lifecycle of an application a
 * Framework-agnostic core: works anywhere you need object filtering
 * Minimal setup, maximum flexibility
 
+---
+
 ### [DashHub](https://dashhub.up.railway.app)
 
 **Tech:** React, Redux, Tailwind, Node.js, Express, Cypress, Docker
