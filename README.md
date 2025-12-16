@@ -59,13 +59,13 @@ This broader skillset helps me understand the full lifecycle of an application a
 
 ##  Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,react,next,angular,js,html,css,graphql,bootstrap,tailwindcss,styledcomponents,docker,mongodb,nodejs,express,php,symfony,git,gitlab,cypress,jest,githubactions,vercel,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,react,next,angular,js,html,css,graphql,bootstrap,tailwindcss,styledcomponents,docker,mongodb,nodejs,express,php,symfony,git,gitlab,cypress,jest,githubactions,vercel,netlify,python)](https://skillicons.dev)
 
 **Frontend:** React, Angular, Tailwind CSS, TypeScript
 
-**Backend:** Node.js, Express, MongoDB
+**Backend:** Node.js, Express, MongoDB, Python
 
-**DevOps / Cloud:** Docker, GitHub Actions, GitLab CI
+**DevOps / Cloud:** Docker, GitHub Actions, GitLab CI, Python
 
 **Testing:** Cypress, React Testing Library, Jest
 
