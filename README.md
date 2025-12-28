@@ -17,19 +17,18 @@ This broader skillset helps me understand the full lifecycle of an application a
 
 ## Featured Projects
 
-### [Multi-Criteria-Filter](https://www.npmjs.com/package/@leo95/multi-criteria-filter)
+### [Leo CRM](https://leolab.dev)
 
-**Tech**: TypeScript, React
+**Tech:** React, Redux, Tailwind, Node.js, Express, MongoDB, Docker
 
-**Highlights**:
+**Highlights:**
 
-* Ultra-lightweight, fully typed library for dynamic multi-criteria filtering
-* Handles AND/OR logic and optional duplicate removal effortlessly
-* Includes a React Hook for instant integration in projects
-* Framework-agnostic core: works anywhere you need object filtering
-* Minimal setup, maximum flexibility
+* Full-stack CRM for customer & activity management
+* Frontend in **React + Redux** with responsive UI
+* Secure backend with **JWT auth, RBAC, and advanced validations**
+* Docker-based deployment, cloud-ready architecture
 
----
+--- 
 
 ### [DashHub](https://dashhub.up.railway.app)
 
@@ -45,16 +44,17 @@ This broader skillset helps me understand the full lifecycle of an application a
 
 ---
 
-### [Leo CRM](https://leolab.dev)
+### [Multi-Criteria-Filter](https://www.npmjs.com/package/@leo95/multi-criteria-filter)
 
-**Tech:** React, Redux, Tailwind, Node.js, Express, MongoDB, Docker
+**Tech**: TypeScript, React
 
-**Highlights:**
+**Highlights**:
 
-* Full-stack CRM for customer & activity management
-* Frontend in **React + Redux** with responsive UI
-* Secure backend with **JWT auth, RBAC, and advanced validations**
-* Docker-based deployment, cloud-ready architecture
+* Ultra-lightweight, fully typed library for dynamic multi-criteria filtering
+* Handles AND/OR logic and optional duplicate removal effortlessly
+* Includes a React Hook for instant integration in projects
+* Framework-agnostic core: works anywhere you need object filtering
+* Minimal setup, maximum flexibility
 
 
 ##  Skills & Tools
