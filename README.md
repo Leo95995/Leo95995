@@ -24,7 +24,7 @@ This broader skillset helps me understand the full lifecycle of an application a
 **Highlights:**
 
 * Full-stack CRM for customer & activity management
-* Frontend in **React + Redux** with responsive UI
+* Frontend in **React** with responsive UI
 * Secure backend with **JWT auth, RBAC, and advanced validations**
 * Docker-based deployment, cloud-ready architecture
 
@@ -38,7 +38,7 @@ This broader skillset helps me understand the full lifecycle of an application a
 
 * Modular dashboard with **drag & drop** and persistent layouts
 * Real-time API integrations (NASA, GitHub, Crypto, Weather)
-* **Full test coverage:** Cypress E2E + RTL unit/smoke
+* **test coverage:** Cypress E2E + RTL unit/smoke
 * Performance-optimized: lazy loading, Vite build splitting, proxy caching
 * Fully dockerized for seamless deployment
 
@@ -55,8 +55,23 @@ This broader skillset helps me understand the full lifecycle of an application a
 * Includes a React Hook for instant integration in projects
 * Framework-agnostic core: works anywhere you need object filtering
 * Minimal setup, maximum flexibility
+  
+---
 
 
+## Infrastructure & DevOps Lab
+
+### [Systems Lab](https://github.com/Leo95995/systems-lab)  — Automated VPS Management & Orchestration
+
+Personal DevOps workspace for VPS automation and infrastructure management.
+
+A collection of scripts and configurations used to manage and automate a VPS fleet, with a focus on security, reproducibility, and reliability.
+
+- **Linux hardening**: SSH lockdown, UFW firewall rules, and Tailscale mesh networking
+- **Resilience**: systemd health checks, automated MongoDB and file backups, log rotation
+- **Containers**: Nginx reverse proxy patterns and Kubernetes manifests for resilient deployments
+
+    
 ##  Skills & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=typescript,react,next,angular,js,html,css,graphql,bootstrap,tailwindcss,styledcomponents,docker,mongodb,nodejs,express,php,symfony,git,gitlab,cypress,jest,githubactions,vercel,netlify,python)](https://skillicons.dev)
@@ -70,6 +85,7 @@ This broader skillset helps me understand the full lifecycle of an application a
 **Testing:** Cypress, React Testing Library, Jest
 
 **Other Tools:** Git, VS Code, Linux, debugging, performance optimization
+
 
 
 ##  GitHub Stats
