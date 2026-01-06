@@ -61,15 +61,17 @@ This broader skillset helps me understand the full lifecycle of an application a
 
 ## Infrastructure & DevOps Lab
 
-### [Systems Lab](https://github.com/Leo95995/systems-lab)  — Automated VPS Management & Orchestration
+### [Systems Lab](https://github.com/Leo95995/systems-lab)  —  Infrastructure-as-Code & VPS Orchestration
 
-Personal DevOps workspace for VPS automation and infrastructure management.
+Personal workspace focused on automating the lifecycle of cloud environments with a security-first approach.
 
-A collection of scripts and configurations used to manage and automate a VPS fleet, with a focus on security, reproducibility, and reliability.
+    IaC & Provisioning: Full automation using Terraform for cloud resources (Hetzner) and Ansible for system state management.
 
-- **Linux hardening**: SSH lockdown, UFW firewall rules, and Tailscale mesh networking
-- **Resilience**: systemd health checks, automated MongoDB and file backups, log rotation
-- **Containers**: Nginx reverse proxy patterns and Kubernetes manifests for resilient deployments
+    Security Hardening: Automated SSH lockdown, UFW firewall orchestration, and secure networking.
+
+    Resilience: Systemd service management, automated backup strategies (MongoDB/Files), and log rotation.
+
+    Container Runtime: Nginx reverse proxy patterns and Docker-centric deployment workflows.
 
     
 ##  Skills & Tools
