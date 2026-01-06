@@ -1,19 +1,29 @@
 # 👋 Hey, I'm Leonardo
 
-**React Frontend Specialist • Full-Stack Developer (Node.js • MongoDB • Docker)**
+**Full-Stack Developer | React • Node.js • Systems Automation** 
+
 
 ##  About Me
 
-I’m a Frontend Engineer specialized in **React**, focused on building fast, scalable, and maintainable interfaces using modern architecture patterns and TypeScript.
-I care about clean code, performance, and crafting UIs that feel smooth and reliable.
+I am a Fullstack Developer with a focus on building high-performance interfaces and automated infrastructures.
+I specialize in React and TypeScript, crafting UIs that are not only smooth and reliable but also backed by solid, scalable architectures.
 
-In my spare time, I expand beyond the frontend developing APIs with **Node.js/Express**, integrating databases, and experimenting with DevOps workflows like **Docker** and **CI/CD**.
-This broader skillset helps me understand the full lifecycle of an application and deliver solutions that are stable, testable, and production-ready.
+What sets me apart is my approach to the full application lifecycle. I don't just stop at the code: 
 
-* 💻 **Frontend:** React, Angular, Tailwind, TypeScript
-* 🛠️ **Backend:** Node.js, Express, MongoDB, REST APIs
-* ⚡ **DevOps / Cloud:** Docker, CI/CD pipelines, basic Kubernetes
-* 🧪 **Testing:** Cypress, React Testing Library, Jest
+I use Infrastructure-as-Code (Terraform & Ansible) to provision and secure the environments where my apps live. 
+Whether it's optimizing a React component or hardening a Linux server, I focus on delivering solutions that are stable, testable, and production-ready.
+
+## Technical Skills & Tools
+
+**Fullstack Core:** React • Angular • TypeScript • Node.js (Express) • MongoDB • SQL
+
+**Systems & Automation:** Python • Bash • Linux System Administration • Tailscale
+
+**DevOps & Cloud IaC:** Terraform • Ansible • Docker • Nginx • CI/CD (GitHub/GitLab)
+
+**Quality & Performance:** Jest • Cypress • React Testing Library • Supertest • Debugging • Perf. Optimization
+
+[![My Skills](https://skillicons.dev/icons?i=typescript,react,angular,nodejs,express,mongodb,mysql,python,bash,linux,terraform,ansible,docker,nginx,git,gitlab,githubactions,cypress,jest,tailwind)](https://skillicons.dev)
 
 ## Featured Projects
 
@@ -38,7 +48,7 @@ This broader skillset helps me understand the full lifecycle of an application a
 
 * Modular dashboard with **drag & drop** and persistent layouts
 * Real-time API integrations (NASA, GitHub, Crypto, Weather)
-* **test coverage:** Cypress E2E + RTL unit/smoke
+* Test coverage: Cypress E2E + RTL unit/smoke
 * Performance-optimized: lazy loading, Vite build splitting, proxy caching
 * Fully dockerized for seamless deployment
 
@@ -74,17 +84,9 @@ Personal workspace focused on automating the lifecycle of cloud environments wit
 **Container Runtime:** Nginx reverse proxy patterns and Docker-centric deployment workflows.
 
     
-##  Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,react,next,angular,js,html,css,graphql,bootstrap,tailwindcss,styledcomponents,docker,mongodb,nodejs,express,php,symfony,git,gitlab,cypress,jest,githubactions,vercel,netlify,python)](https://skillicons.dev)
 
-Fullstack Core: React • Angular • TypeScript • Node.js (Express) • MongoDB  • Sql
 
-Systems & Automation: Python • Bash • Linux System Administration • Tailscale 
-
-DevOps & Cloud IaC: Terraform • Ansible • Docker • Nginx • CI/CD (GitHub/GitLab) 
-
-Quality & Performance: Jest • Cypress • React Testing Library • Supertest • Debugging • Perf. Optimization
 
 ##  GitHub Stats
 
