@@ -65,13 +65,13 @@ This broader skillset helps me understand the full lifecycle of an application a
 
 Personal workspace focused on automating the lifecycle of cloud environments with a security-first approach.
 
-    IaC & Provisioning: Full automation using Terraform for cloud resources (Hetzner) and Ansible for system state management.
+**IaC & Provisioning:** Full automation using Terraform for cloud resources (Hetzner) and Ansible for system state management.
 
-    Security Hardening: Automated SSH lockdown, UFW firewall orchestration, and secure networking.
+**Security Hardening:** Automated SSH lockdown, UFW firewall orchestration, and secure networking.
 
-    Resilience: Systemd service management, automated backup strategies (MongoDB/Files), and log rotation.
+**Resilience:** Systemd service management, automated backup strategies (MongoDB/Files), and log rotation.
 
-    Container Runtime: Nginx reverse proxy patterns and Docker-centric deployment workflows.
+**Container Runtime:** Nginx reverse proxy patterns and Docker-centric deployment workflows.
 
     
 ##  Skills & Tools
