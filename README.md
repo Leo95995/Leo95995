@@ -78,17 +78,13 @@ Personal workspace focused on automating the lifecycle of cloud environments wit
 
 [![My Skills](https://skillicons.dev/icons?i=typescript,react,next,angular,js,html,css,graphql,bootstrap,tailwindcss,styledcomponents,docker,mongodb,nodejs,express,php,symfony,git,gitlab,cypress,jest,githubactions,vercel,netlify,python)](https://skillicons.dev)
 
-**Frontend:** React, Angular, Tailwind CSS, TypeScript
+Fullstack Core: React • Angular • TypeScript • Node.js (Express) • MongoDB  • Sql
 
-**Backend:** Node.js, Express, MongoDB, Python
+Systems & Automation: Python • Bash • Linux System Administration • Tailscale 
 
-**DevOps / Cloud:** Docker, GitHub Actions, GitLab CI, Python
+DevOps & Cloud IaC: Terraform • Ansible • Docker • Nginx • CI/CD (GitHub/GitLab) 
 
-**Testing:** Cypress, React Testing Library, Jest
-
-**Other Tools:** Git, VS Code, Linux, debugging, performance optimization
-
-
+Quality & Performance: Jest • Cypress • React Testing Library • Supertest • Debugging • Perf. Optimization
 
 ##  GitHub Stats
 
