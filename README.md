@@ -17,9 +17,9 @@ Whether it's optimizing a React component or hardening a Linux server, I focus o
 
 **Fullstack Core:** React • Angular • TypeScript • Node.js (Express) • MongoDB • SQL
 
-**Systems & Automation:** Python • Bash • Linux System Administration • Tailscale
+**Systems & Automation:** Python • Bash • Linux System Administration • Tailscale 
 
-**DevOps & Cloud IaC:** Terraform • Ansible • Docker • Nginx • CI/CD (GitHub/GitLab)
+**DevOps & Cloud IaC:** Terraform • Ansible • Docker • Nginx • CI/CD (GitHub/GitLab) • AWS
 
 **Quality & Performance:** Jest • Cypress • React Testing Library • Supertest • Debugging • Perf. Optimization
 
