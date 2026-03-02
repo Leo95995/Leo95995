@@ -27,6 +27,21 @@ Whether it's optimizing a React component or hardening a Linux server, I focus o
 
 ## Featured Projects
 
+### [PulseGrid](https://pulsegrid.leolab.dev)
+
+A lightweight, self-hosted engine for automated uptime and service monitoring.
+
+**Tech**:  AWS • NestJS • Python • Redis • PostgreSQL • Terraform • Ansible • Docker Compose
+
+**Highlights:**
+
+ * Self-Hosted Monitoring Engine: A distributed system for real-time monitoring of HTTPS endpoints, network ports (SSH, DB), and SSL/Domain expiration tracking.
+ * Reliability-First Architecture: Implemented a robust "3-strike policy" to eliminate false positives and ensure accurate alerting via Telegram.
+ * Infrastructure-as-Code (IaC): Fully automated deployment pipeline using Terraform for AWS provisioning and Ansible for Linux VPS hardening and configuration.
+ * Resource-Optimized Performance: High-concurrency architecture leveraging Python micro-workers and Redis queues, specifically designed to run efficiently on low-spec VPS environments.
+ * Transparency & Control: Built-in support for white-label branding, comprehensive activity logs, and PDF reporting.
+
+
 ### [Leo CRM](https://leolab.dev)
 
 **Tech:** React, Redux, Tailwind, Node.js, Express, MongoDB, Docker
