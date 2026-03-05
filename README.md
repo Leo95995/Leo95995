@@ -23,7 +23,7 @@ Whether it's optimizing a React component or hardening a Linux server, I focus o
 
 **Quality & Performance:** Jest • Cypress • React Testing Library • Supertest • Debugging • Perf. Optimization
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,react,angular,nodejs,express,mongodb,mysql,python,bash,linux,terraform,ansible,docker,nginx,git,gitlab,githubactions,cypress,jest,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,aws,react,angular,nodejs,express,mongodb,mysql,python,bash,linux,terraform,ansible,docker,nginx,git,gitlab,githubactions,cypress,jest,tailwind)](https://skillicons.dev)
 
 ## Featured Projects
 
