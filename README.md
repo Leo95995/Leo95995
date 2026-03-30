@@ -7,7 +7,7 @@
 I am a Fullstack Developer specializing in Enterprise Service Management (ServiceNow) and high-performance automation. I bridge the gap between complex business workflows and scalable "pro-code" solutions.
 
 With a strong background in React, TypeScript, and Node.js, I focus on building reliable interfaces backed by solid, scalable architectures. 
-I leverage my expertise in Cloud Infrastructure (AWS/Terraform) to extend the ServiceNow platform beyond out-of-the-box limitations—whether it's architecting custom Service Portal widgets or designing distributed monitoring systems.
+I leverage my expertise in Cloud Infrastructure (AWS/Terraform) to extend the ServiceNow platform beyond out-of-the-box limitations whether it's architecting custom Service Portal widgets or designing distributed monitoring systems.
 My goal is always to deliver solutions that are stable, secure, and production-ready.
 
 ## Technical Skills & Tools
@@ -26,9 +26,8 @@ Platform: ServiceNow (CSA) • ITSM • Service Portal • Custom Apps • Scrip
 
 ## Certifications
 
-- ServiceNow Certified System Administrator (CSA)
-
-- FinOps Certified Practitioner (Linux Foundation)
+* **ServiceNow Certified System Administrator (CSA)**
+* **FinOps Certified Practitioner** (The Linux Foundation)
 
 
 ## Featured Projects
