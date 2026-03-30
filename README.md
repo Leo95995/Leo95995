@@ -1,19 +1,18 @@
 # 👋 Hey, I'm Leonardo
 
-**Full-Stack Developer | React • Node.js • Systems Automation** 
-
+**ServiceNow Certified Administrator (CSA) | Fullstack Engineer | Cloud & Infrastructure**
 
 ##  About Me
 
-I am a Fullstack Developer with a focus on building high-performance interfaces and automated infrastructures.
-I specialize in React and TypeScript, crafting UIs that are not only smooth and reliable but also backed by solid, scalable architectures.
+I am a Fullstack Developer specializing in Enterprise Service Management (ServiceNow) and high-performance automation. I bridge the gap between complex business workflows and scalable "pro-code" solutions.
 
-What sets me apart is my approach to the full application lifecycle. I don't just stop at the code: 
-
-I use Infrastructure-as-Code (Terraform & Ansible) to provision and secure the environments where my apps live. 
-Whether it's optimizing a React component or hardening a Linux server, I focus on delivering solutions that are stable, testable, and production-ready.
+With a strong background in React, TypeScript, and Node.js, I focus on building reliable interfaces backed by solid, scalable architectures. 
+I leverage my expertise in Cloud Infrastructure (AWS/Terraform) to extend the ServiceNow platform beyond out-of-the-box limitations—whether it's architecting custom Service Portal widgets or designing distributed monitoring systems.
+My goal is always to deliver solutions that are stable, secure, and production-ready.
 
 ## Technical Skills & Tools
+
+Platform: ServiceNow (CSA) • ITSM • Service Portal • Custom Apps • Scripting
 
 **Fullstack Core:** React • Angular • TypeScript • Node.js (Express) • MongoDB • SQL
 
@@ -24,6 +23,13 @@ Whether it's optimizing a React component or hardening a Linux server, I focus o
 **Quality & Performance:** Jest • Cypress • React Testing Library • Supertest • Debugging • Perf. Optimization
 
 [![My Skills](https://skillicons.dev/icons?i=typescript,aws,react,angular,nodejs,express,mongodb,mysql,python,bash,linux,terraform,ansible,docker,nginx,git,gitlab,githubactions,cypress,jest,tailwind)](https://skillicons.dev)
+
+## Certifications
+
+- ServiceNow Certified System Administrator (CSA)
+
+- FinOps Certified Practitioner (Linux Foundation)
+
 
 ## Featured Projects
 
