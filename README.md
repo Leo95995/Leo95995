@@ -26,8 +26,8 @@ Platform: ServiceNow (CSA) • ITSM • Service Portal • Custom Apps • Scrip
 
 ## Certifications
 
-* **ServiceNow Certified System Administrator (CSA)**
-* **FinOps Certified Practitioner** (The Linux Foundation)
+* **[ServiceNow Certified System Administrator (CSA)](https://www.credly.com/badges/9dab6a1b-9faf-4a9c-9d62-5dce6b3407de/public_url)** 
+* **[FinOps Certified Practitioner (The Linux Foundation)](https://www.credly.com/earner/earned/badge/818639a8-0d25-44af-8544-2ce92ba6156c)** 
 
 
 ## Featured Projects
