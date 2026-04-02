@@ -37,7 +37,7 @@ Focusing on Pro-Code development, Automated Triage, and CMDB Integrations.
 
 A centralized repository for ServiceNow modules and automation engines.
 
-  #### Asset Sync:
+#### [Asset Sync](https://github.com/Leo95995/servicenow-integrator/tree/main/01_asset-sync)
 
   **Goal:** Automated pipeline for hardware asset synchronization (Code-as-Inventory).
 
@@ -45,7 +45,7 @@ A centralized repository for ServiceNow modules and automation engines.
 
   **Impact:** Eliminates manual CSV imports by establishing a secure staging layer and automated de-duplication in the CMDB (alm_hardware).
 
- ####   Dynamic Routing Engine:
+####  [Dynamic Routing Engine](https://github.com/Leo95995/servicenow-integrator/tree/main/02_dynamic-routing-engine)
 
   **Goal:** Automated incident triaging to minimize MTTA.
 
