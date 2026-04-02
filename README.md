@@ -12,7 +12,7 @@ My goal is always to deliver solutions that are stable, secure, and production-r
 
 ## Technical Skills & Tools
 
-Platform: ServiceNow (CSA) • ITSM • Service Portal • Custom Apps • Scripting
+**Platform:** ServiceNow (CSA) • ITSM • Service Portal • Custom Apps • Scripting
 
 **Fullstack Core:** React • Angular • TypeScript • Node.js (Express) • MongoDB • SQL
 
@@ -28,6 +28,30 @@ Platform: ServiceNow (CSA) • ITSM • Service Portal • Custom Apps • Scrip
 
 * **[ServiceNow Certified System Administrator (CSA)](https://www.credly.com/badges/9dab6a1b-9faf-4a9c-9d62-5dce6b3407de/public_url)** 
 * **[FinOps Certified Practitioner (The Linux Foundation)](https://www.credly.com/earner/earned/badge/818639a8-0d25-44af-8544-2ce92ba6156c)** 
+
+
+## ServiceNow Ecosystem
+
+Focusing on Pro-Code development, Automated Triage, and CMDB Integrations.
+### [ServiceNow Integrator (Hub)](https://github.com/Leo95995/servicenow-integrator)
+
+A centralized repository for ServiceNow modules and automation engines.
+
+  #### Asset Sync:
+
+  **Goal:** Automated pipeline for hardware asset synchronization (Code-as-Inventory).
+
+  **Tech:** Python 3.12, REST Table API, Transform Maps, Coalesce logic.
+
+  **Impact:** Eliminates manual CSV imports by establishing a secure staging layer and automated de-duplication in the CMDB (alm_hardware).
+
+ ####   Dynamic Routing Engine:
+
+  **Goal:** Automated incident triaging to minimize MTTA.
+
+  **Tech:** Scoped Script Includes, Before Business Rules, Custom Configuration Tables.
+
+  **Impact:** Replaces manual assignment with a data-driven lookup engine, decoupled from the core logic for maintanability.
 
 
 ## Featured Projects
