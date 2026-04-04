@@ -84,7 +84,7 @@ A lightweight, self-hosted engine for automated uptime and service monitoring.
 
 --- 
 
-### [DashHub](https://dashhub.up.railway.app)
+### [DashHub](https://github.com/Leo95995/dashhub)
 
 **Tech:** React, Redux, Tailwind, Node.js, Express, Cypress, Docker
 
