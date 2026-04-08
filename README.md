@@ -1,24 +1,22 @@
 # 👋 Hey, I'm Leonardo
 
-**ServiceNow Certified Administrator (CSA) | Fullstack Engineer | Cloud & Infrastructure**
+** Fullstack Engineer | Cloud & Infrastructure | ServiceNow CSA **
 
 ##  About Me
 
-I am a Fullstack Developer specializing in Enterprise Service Management (ServiceNow) and high-performance automation. I bridge the gap between complex business workflows and scalable "pro-code" solutions.
+I am a Fullstack Developer with a focus on enterprise platforms and high-performance automation. I translate complex business workflows into scalable, production-ready solutions.
 
-With a strong background in React, TypeScript, and Node.js, I focus on building reliable interfaces backed by solid, scalable architectures. 
-I leverage my expertise in Cloud Infrastructure (AWS/Terraform) to extend the ServiceNow platform beyond out-of-the-box limitations whether it's architecting custom Service Portal widgets or designing distributed monitoring systems.
-My goal is always to deliver solutions that are stable, secure, and production-ready.
+With solid experience in React, TypeScript, and Node.js, I build reliable interfaces supported by robust backend architectures. I also leverage Cloud Infrastructure (AWS/Terraform) to extend enterprise platforms beyond their standard capabilities, designing custom applications, integrations, and distributed monitoring systems. My goal is to deliver solutions that are secure, maintainable, and optimized for real-world use.
 
 ## Technical Skills & Tools
 
-**Platform:** ServiceNow (CSA) • ITSM • Service Portal • Custom Apps • Scripting
+**Platform & Enterprise Tools**: ServiceNow (CSA) • ITSM Platforms • Custom Applications • Workflow Automation • Scripting
 
 **Fullstack Core:** React • Angular • TypeScript • Node.js (Express) • MongoDB • SQL
 
 **Systems & Automation:** Python • Bash • Linux System Administration • Tailscale 
 
-**DevOps & Cloud IaC:** Terraform • Ansible • Docker • Nginx • CI/CD (GitHub/GitLab) • AWS
+**DevOps & Cloud IaC:** Terraform • Ansible • Docker • Nginx • CI/CD (GitHub/GitLab) • AWS 
 
 **Quality & Performance:** Jest • Cypress • React Testing Library • Supertest • Debugging • Perf. Optimization
 
