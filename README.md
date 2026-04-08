@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Leonardo
 
-** Fullstack Engineer | Cloud & Infrastructure | ServiceNow CSA **
+**Fullstack Engineer | Cloud & Infrastructure | ServiceNow CSA**
 
 ##  About Me
 
