@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Leonardo
 
-**Fullstack Engineer | Cloud & Infrastructure | ServiceNow CSA**
+**Fullstack Engineer | Cloud & Infrastructure **
 
 ##  About Me
 
@@ -9,8 +9,6 @@ I am a Fullstack Developer with a focus on enterprise platforms and high-perform
 With solid experience in React, TypeScript, and Node.js, I build reliable interfaces supported by robust backend architectures. I also leverage Cloud Infrastructure (AWS/Terraform) to extend enterprise platforms beyond their standard capabilities, designing custom applications, integrations, and distributed monitoring systems. My goal is to deliver solutions that are secure, maintainable, and optimized for real-world use.
 
 ## Technical Skills & Tools
-
-**Platform & Enterprise Tools**: ServiceNow (CSA) • ITSM Platforms • Custom Applications • Workflow Automation • Scripting
 
 **Fullstack Core:** React • Angular • TypeScript • Node.js (Express) • MongoDB • SQL
 
