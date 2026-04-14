@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Leonardo
 
-**Fullstack Engineer | Cloud & Infrastructure **
+**Fullstack Engineer | Cloud & Infrastructure**
 
 ##  About Me
 
