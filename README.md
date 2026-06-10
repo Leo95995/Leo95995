@@ -42,7 +42,7 @@ A lightweight, self-hosted engine for automated uptime and service monitoring.
  * Transparency & Control: Built-in support for white-label branding, comprehensive activity logs, and PDF reporting.
 
 
-### [Leo CRM]([https://leolab.dev](https://github.com/Leo95995/leo-crm)
+### [Leo CRM](https://github.com/Leo95995/leo-crm)
 
 **Tech:** React, Redux, Tailwind, Node.js, Express, MongoDB, Docker
 
